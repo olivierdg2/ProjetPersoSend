@@ -10,9 +10,9 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    width: 100%;
+    width: auto;
     height: auto;
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
 }
