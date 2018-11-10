@@ -5,10 +5,12 @@ img {
 }
 body {
     background:url("temp/galaxy-S7-samsung-fond-ecran.jpg") no-repeat center center fixed;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-position: 100% top;
 }
 .cookie {
     display: block;
