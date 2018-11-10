@@ -4,7 +4,7 @@ img {
     -webkit-border-radius: 4000px;
 }
 body {
-    background-image:url("temp/galaxy-S7-samsung-fond-ecran.jpg");
+    background:url("temp/galaxy-S7-samsung-fond-ecran.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
