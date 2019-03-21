@@ -15,7 +15,7 @@ var snake = {
     x: 160,
     y: 160,
 
-    dx: 50,
+    dx: 16,
     dy: 0,
 
     cells: [],
