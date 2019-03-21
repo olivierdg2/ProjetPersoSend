@@ -1,6 +1,6 @@
 var canvas = document.getElementById('game');
 var context = canvas.getContext('2d');
-var grid = 16;
+var grid = 50;
 var count = 0;
 var color = "green";
 var fruit = "red";
